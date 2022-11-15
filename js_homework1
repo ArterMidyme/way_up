@@ -48,7 +48,7 @@ console.log(square + 'sm');
 let time = 2,
     speedOfFirst = 95,
     speedOfSecond = 114;
-let distance = (speedOfFirst + speedOfSecond) * 2;
+let distance = (speedOfFirst + speedOfSecond) * time;
 console.log(distance);
 
 /* 
